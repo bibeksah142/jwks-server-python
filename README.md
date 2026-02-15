@@ -9,14 +9,14 @@ This project is for educational purposes and demonstrates how authentication sys
 ---
 ## Project Structure 
 
-jwks-server-python/
+```jwks-server-python/
 │
 ├── app.py            # FastAPI server and routes
 ├── keys.py           # RSA key generation and JWKS formatting
 ├── jwt_utils.py      # JWT signing logic
 ├── test_server.py    # Automated tests
 ├── requirements.txt  # Dependencies
-└── README.md
+└── README.md```
 
 ## Features
 
